@@ -28,6 +28,15 @@
   <h2 align="center">My Github Stats<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
 
-    <!-- YOUTUBE:START -->
-    <!-- YOUTUBE:END -->    
+    <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oEK7eSYUja4"><img width="140px" src="https://i.ytimg.com/vi/oEK7eSYUja4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oEK7eSYUja4">OptikServers | Free Minecraft Hosting Solutions | 99% Uptime</a><br/>Feb 18, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E"><img width="140px" src="https://i.ytimg.com/vi/F2n4SbLQu8E/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E">How to make a minecraft server without port forwarding | 1.18+ [Links in description]</a><br/>Jan 24, 2022</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=Gdxi7TPyHMQ"><img width="140px" src="https://i.ytimg.com/vi/Gdxi7TPyHMQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Gdxi7TPyHMQ">[FREE] How to install and use Cloaks+</a><br/>Dec 1, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=x8YJ12VVO2Q"><img width="140px" src="https://i.ytimg.com/vi/x8YJ12VVO2Q/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=x8YJ12VVO2Q">Thank you!!, There is also an announcement</a><br/>Nov 4, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk"><img width="140px" src="https://i.ytimg.com/vi/D1egzZiQLWk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk">Gamin with dondyblondie2 and viewers!!</a><br/>Nov 1, 2021</td></tr></table>
+<!-- YOUTUBE:END -->    
  </div>
