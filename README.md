@@ -27,15 +27,4 @@
   
   <h2 align="center">My Github Stats<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
-    
-<div>
-  <h2 align="center">Recent Youtube Videos<h2>
-    <!-- BLOG-POST-LIST:START -->
-      - [OptikServers | Free Minecraft Hosting Solutions | 99% Uptime](https://www.youtube.com/watch?v=oEK7eSYUja4)
-      - [How to make a minecraft server without port forwarding | 1.18+ [Links in description]](https://www.youtube.com/watch?v=F2n4SbLQu8E)
-      - [[FREE] How to install and use Cloaks+](https://www.youtube.com/watch?v=Gdxi7TPyHMQ)
-      - [Thank you!!, There is also an announcement](https://www.youtube.com/watch?v=x8YJ12VVO2Q)
-      - [Gamin with dondyblondie2 and viewers!!](https://www.youtube.com/watch?v=D1egzZiQLWk)
-<!-- BLOG-POST-LIST:END -->
-    </div>
 </div>
