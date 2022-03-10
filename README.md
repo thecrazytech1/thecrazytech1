@@ -28,6 +28,7 @@
   <h2 align="center">My Github Stats<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
 
+ <div>
     <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=oEK7eSYUja4"><img width="140px" src="https://i.ytimg.com/vi/oEK7eSYUja4/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oEK7eSYUja4">OptikServers | Free Minecraft Hosting Solutions | 99% Uptime</a><br/>Feb 18, 2022</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E"><img width="140px" src="https://i.ytimg.com/vi/F2n4SbLQu8E/mqdefault.jpg"></a></td>
@@ -39,4 +40,5 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk"><img width="140px" src="https://i.ytimg.com/vi/D1egzZiQLWk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk">Gamin with dondyblondie2 and viewers!!</a><br/>Nov 1, 2021</td></tr></table>
 <!-- YOUTUBE:END -->    
+    </div>
  </div>
