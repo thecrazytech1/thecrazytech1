@@ -1,4 +1,15 @@
-### Hello, There i am thecrazytech. I have absolutly no idea what do put on here :P
+# <center>Hello, 👋 I'm Chriss Quartz</center>
+<center>
+I am a content creator and streamer, but I love to code and create stuff in my free time. You can find my links below
+<p align='center'>
+  <a href="https://youtube.com/ChrissQuartz">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitch.tv/akacrypt_">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />        
+  </a>
+</p>
+</center>
 
 
 <!--
