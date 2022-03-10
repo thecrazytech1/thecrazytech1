@@ -1,0 +1,17 @@
+name: Youtube Videos
+
+on:
+  # Run workflow automatically
+  schedule:
+    # Runs every hour, on the hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repos README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC0dKRQnP7mZMY5bWTgAP-mg"
