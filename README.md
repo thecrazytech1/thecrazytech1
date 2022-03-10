@@ -26,5 +26,5 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   
   <h2 align="center">My Github Stats<h2>
-  [![Quartz's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252)
+  <img src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
 </div>
