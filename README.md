@@ -50,7 +50,8 @@
     </div>
  </div>
  </div>
-  
-      <h2 align="center">Coding Quotes</h2>
+<div>
+<h2 align="center">Coding Quotes</h2>
       
-    ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&animation=default&layout=zues&font=default)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&animation=default&layout=zues&font=default)
+</div>
