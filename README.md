@@ -47,5 +47,8 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk"><img width="140px" src="https://i.ytimg.com/vi/D1egzZiQLWk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk">Gamin with dondyblondie2 and viewers!!</a><br/>Nov 1, 2021</td></tr></table>
 <!-- YOUTUBE:END -->    
+
+<!-- QUOTES:START -->
+<!-- QUOTES:END -->    
     </div>
  </div>
