@@ -51,6 +51,6 @@
         </div>
     <div>
     <h2 align="center">Coding Quotes</h2>
-    ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark?quoteCategory=programming)
+    ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
     </div>
  </div>
