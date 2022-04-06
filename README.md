@@ -51,5 +51,7 @@
 
    
     </div>
-    ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark?quoteCategory=programming)
  </div>
+    
+    
+        ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark?quoteCategory=programming)
