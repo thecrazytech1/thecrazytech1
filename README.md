@@ -48,7 +48,7 @@
 <td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk">Gamin with dondyblondie2 and viewers!!</a><br/>Nov 1, 2021</td></tr></table>
 <!-- YOUTUBE:END -->    
 
-<!-- QUOTES:START -->
-<!-- QUOTES:END -->    
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
+   
     </div>
  </div>
