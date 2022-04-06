@@ -48,11 +48,9 @@
 <td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk">Gamin with dondyblondie2 and viewers!!</a><br/>Nov 1, 2021</td></tr></table>
 <!-- YOUTUBE:END -->    
     </div>
-        </div>
-    <div>
-    <h2 align="center">Coding Quotes</h2>
+ </div>
+ </div>
+  
+      <h2 align="center">Coding Quotes</h2>
       
     ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&animation=default&layout=zues&font=default)
-      
-    </div>
- </div>
