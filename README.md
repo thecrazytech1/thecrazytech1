@@ -45,8 +45,8 @@
 <table><tr><td><a href="https://www.youtube.com/watch?v=x8YJ12VVO2Q"><img width="140px" src="https://i.ytimg.com/vi/x8YJ12VVO2Q/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=x8YJ12VVO2Q">Thank you!!, There is also an announcement</a><br/>Nov 4, 2021</td></tr></table>
 
-<table><tr><td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk"><img width="140px" src="https://i.ytimg.com/vi/D1egzZiQLWk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=D1egzZiQLWk">Gamin with dondyblondie2 and viewers!!</a><br/>Nov 1, 2021</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI"><img width="140px" src="https://i.ytimg.com/vi/SgoAaU5dTRI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI">10 HOUR - I see a dreamer</a><br/>Oct 15, 2021</td></tr></table>
 <!-- YOUTUBE:END -->    
     </div>
  </div>
