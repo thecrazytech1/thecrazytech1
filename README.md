@@ -33,9 +33,6 @@
    <h2 align="center">My Latest Videos</h2>
    
    <!-- YOUTUBE:START -->
-<table><tr><td><a href="https://www.youtube.com/watch?v=oEK7eSYUja4"><img width="140px" src="https://i.ytimg.com/vi/oEK7eSYUja4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oEK7eSYUja4">OptikServers | Free Minecraft Hosting Solutions | 99% Uptime</a><br/>Feb 18, 2022</td></tr></table>
-
 <table><tr><td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E"><img width="140px" src="https://i.ytimg.com/vi/F2n4SbLQu8E/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E">How to make a minecraft server without port forwarding | 1.18+ [Links in description]</a><br/>Jan 24, 2022</td></tr></table>
 
@@ -47,6 +44,9 @@
 
 <table><tr><td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI"><img width="140px" src="https://i.ytimg.com/vi/SgoAaU5dTRI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI">10 HOUR - I see a dreamer</a><br/>Oct 15, 2021</td></tr></table>
+
+<table><tr><td><a href="https://www.youtube.com/watch?v=I1PqtYxO3kw"><img width="140px" src="https://i.ytimg.com/vi/I1PqtYxO3kw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=I1PqtYxO3kw">10 HOUR - CG5 - Phoenix of the Sea Axolotl Original Song</a><br/>Aug 5, 2021</td></tr></table>
 <!-- YOUTUBE:END -->    
     </div>
  </div>
