@@ -28,7 +28,7 @@
   
   <h2 align="center">My Github Stats<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazytech1&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazytech1&theme=dark">
 <!--   Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 <!-- <div>
