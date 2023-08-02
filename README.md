@@ -15,9 +15,8 @@
 <!--   <a href="https://chrissquartz.cf/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />        
   </a> -->
-  
-  
 </p>
+  
   <h2 align="center">Some of the languages I use are:</h2>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -26,9 +25,6 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DBFB">
 
-  <h2 align="center">Current PC Specs<h2>
-  <h2>CPU: </h2><img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"
-  
   <h2 align="center">My Github Stats<h2>
     <div style="text-align: center;">
   <img style="display: block; margin: 10px auto;" src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
