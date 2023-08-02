@@ -28,6 +28,7 @@
   
   <h2 align="center">My Github Stats<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazytech1">
 
 <!-- <div>
 <!--   <h2 align="center">My Latest Videos</h2>
