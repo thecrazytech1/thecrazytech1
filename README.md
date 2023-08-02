@@ -27,10 +27,11 @@
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DBFB">
   
   <h2 align="center">My Github Stats<h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazytech1&theme=dark">
+    <div style="text-align: center;">
+  <img style="display: block; margin: 10px auto;" src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
+  <img style="display: block; margin: 10px auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrazytech1&theme=dark">
 <!--   Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-
+</div>
 <!-- <div>
 <!--   <h2 align="center">My Latest Videos</h2>
 
