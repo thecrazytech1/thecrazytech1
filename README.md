@@ -12,9 +12,9 @@
   <a href="https://chrissquartz.cf/d">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://chrissquartz.cf/">
+<!--   <a href="https://chrissquartz.cf/">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />        
-  </a>
+  </a> -->
   
   
 </p>
