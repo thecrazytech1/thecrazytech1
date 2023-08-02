@@ -48,9 +48,9 @@
 <!-- <td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI">10 HOUR - I see a dreamer</a><br/>Oct 15, 2021</td></tr></table>   -->
 <!--     </div> -->
 <!--  </div> -->
- </div>
+ <!--</div>
   <div align="center">
   <h2 align="center">Coding Quotes</h2>
   <img src="https://github-readme-quotes.herokuapp.com/quote?theme=slateorange&animation=default&layout=zues&font=default"></img>
-  </div>
+  </div> -->
 </div>
