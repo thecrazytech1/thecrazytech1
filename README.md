@@ -29,27 +29,25 @@
   <h2 align="center">My Github Stats<h2>
   <img src="https://github-readme-stats.vercel.app/api?username=thecrazytech1&show_icons=true&bg_color=1,006b8c,008c83&title_color=d4d4d4&text_color=bdbdbd&icon_color=ff5252">
 
- <div>
-   <h2 align="center">My Latest Videos</h2>
-   
-   <!-- YOUTUBE:START -->
-<table><tr><td><a href="https://www.youtube.com/watch?v=d0xvmzz7xA0"><img width="140px" src="https://i.ytimg.com/vi/d0xvmzz7xA0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=d0xvmzz7xA0">Youtube Plays Chaos League</a><br/>Jul 22, 2023</td></tr></table>
+<!-- <div>
+<!--   <h2 align="center">My Latest Videos</h2>
 
-<table><tr><td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E"><img width="140px" src="https://i.ytimg.com/vi/F2n4SbLQu8E/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E">How to make a minecraft server without port forwarding | 1.18+ [Links in description]</a><br/>Jan 24, 2022</td></tr></table>
+<!--<table><tr><td><a href="https://www.youtube.com/watch?v=d0xvmzz7xA0"><img width="140px" src="https://i.ytimg.com/vi/d0xvmzz7xA0/mqdefault.jpg"></a></td>
+<!--<td><a href="https://www.youtube.com/watch?v=d0xvmzz7xA0">Youtube Plays Chaos League</a><br/>Jul 22, 2023</td></tr></table>
 
-<table><tr><td><a href="https://www.youtube.com/watch?v=Gdxi7TPyHMQ"><img width="140px" src="https://i.ytimg.com/vi/Gdxi7TPyHMQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Gdxi7TPyHMQ">[FREE] How to install and use Cloaks+</a><br/>Dec 1, 2021</td></tr></table>
+<!--<table><tr><td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E"><img width="140px" src="https://i.ytimg.com/vi/F2n4SbLQu8E/mqdefault.jpg"></a></td>
+<!--<td><a href="https://www.youtube.com/watch?v=F2n4SbLQu8E">How to make a minecraft server without port forwarding | 1.18+ [Links in description]</a><br/>Jan 24, 2022</td></tr></table>
 
-<table><tr><td><a href="https://www.youtube.com/watch?v=x8YJ12VVO2Q"><img width="140px" src="https://i.ytimg.com/vi/x8YJ12VVO2Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=x8YJ12VVO2Q">Thank you!!, There is also an announcement</a><br/>Nov 4, 2021</td></tr></table>
+<!--<table><tr><td><a href="https://www.youtube.com/watch?v=Gdxi7TPyHMQ"><img width="140px" src="https://i.ytimg.com/vi/Gdxi7TPyHMQ/mqdefault.jpg"></a></td>
+<!--<td><a href="https://www.youtube.com/watch?v=Gdxi7TPyHMQ">[FREE] How to install and use Cloaks+</a><br/>Dec 1, 2021</td></tr></table>
 
-<table><tr><td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI"><img width="140px" src="https://i.ytimg.com/vi/SgoAaU5dTRI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI">10 HOUR - I see a dreamer</a><br/>Oct 15, 2021</td></tr></table>
-<!-- YOUTUBE:END -->    
-    </div>
- </div>
+<!--<table><tr><td><a href="https://www.youtube.com/watch?v=x8YJ12VVO2Q"><img width="140px" src="https://i.ytimg.com/vi/x8YJ12VVO2Q/mqdefault.jpg"></a></td>
+<!--<td><a href="https://www.youtube.com/watch?v=x8YJ12VVO2Q">Thank you!!, There is also an announcement</a><br/>Nov 4, 2021</td></tr></table>
+
+<!--<table><tr><td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI"><img width="140px" src="https://i.ytimg.com/vi/SgoAaU5dTRI/mqdefault.jpg"></a></td>
+<!-- <td><a href="https://www.youtube.com/watch?v=SgoAaU5dTRI">10 HOUR - I see a dreamer</a><br/>Oct 15, 2021</td></tr></table>   -->
+<!--     </div> -->
+<!--  </div> -->
  </div>
   <div align="center">
   <h2 align="center">Coding Quotes</h2>
