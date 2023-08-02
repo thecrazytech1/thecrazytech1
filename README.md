@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DBFB">
 
   <h2 align="center">Current PC Specs<h2>
-  <p>CPU: </p><img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"
+  <h2>CPU: </h2><img src="https://img.shields.io/badge/acer%20Aspire%205-83B81A?style=for-the-badge&logo=acer&logoColor=white"
   
   <h2 align="center">My Github Stats<h2>
     <div style="text-align: center;">
